@@ -1,6 +1,8 @@
 
 # APC - zadanie 3
 
+Pri spustení treba dať na vstup argument – meno súboru.
+
 # Príkazy
 
 ## Write
